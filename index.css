@@ -1,0 +1,49 @@
+body {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#main {
+  background: linear-gradient(35deg, #ccffff, #ffcccc);
+  font-size: 2em;
+  padding-top: 25px;
+}
+#sub-title {
+  font-size: 25px;
+}
+#img-div {
+  margin-left: 15px;
+  margin-right: 15px;
+  background: white;
+}
+
+#image {
+  height: auto;
+  max-width: 100%;
+  padding-top: 30px;
+}
+#title {
+  text-align: center;
+}
+#image-caption {
+  font-size: 20px;
+  margin: 15px 0 5px 0;
+}
+#headline {
+  margin: 50px 0;
+}
+#list {
+  margin: 0 auto 50px auto;
+}
+li {
+  margin: 0 350px 50px 350px;
+  font-size: 20px;
+  text-align: left;
+}
+#tribute-link {
+  text-align: center;
+  padding-bottom: 50px;
+}
+#tribute-info {
+  display: block;
+}
